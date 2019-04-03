@@ -2,4 +2,4 @@ The 1800's started out having men leaving the farms and ranches and had them bre
 
 The clergy had a time trying to put that fire out, but at last the women further realized that they could do what men do: think, do business, work, provide and still be women. These ideas came full force during the Civil War. The men went off to fight, leaving the shops, offices, farms and mills to be tended to by the women. After the Civil War the men returning didn't take nicely to the women and their new found positions. This women's empowerment movement became the beginning of suffrage. Suffrage was the women's movement to gain the right of equal pay for equal work, the right to vote and the right to work in the jobs that she was capable. Not all women agreed with this concept, and many men didn't support it at all. These were known as, “Women’s Suffrage.”
 
-Please continue to read more about the Women's Rights in the 1800's [here](#)
+Please continue to read more about the Women's Rights in the 1800's [here](https://github.com/Mtechnik/giovanni/wiki)
